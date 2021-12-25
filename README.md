@@ -2,7 +2,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jiwanjeon&show_icons=true&theme=radical" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/jiwanjeon/github-readme-stats)" /> <br><br><br><br><br><br><br><br><br><br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/jiwanjeon/github-readme-stats)" />
 
 ### Languages
 
