@@ -36,4 +36,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wecode 2nd Project](https://velog.io/@wjswldhks123/Wecode-2nd-Project)
+- [Wecode 1st Project](https://velog.io/@wjswldhks123/Wecode-1st-Project)
+- [Wecode 1차 프로젝트](https://velog.io/@wjswldhks123/LikeProject)
 <!-- BLOG-POST-LIST:END -->
