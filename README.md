@@ -37,6 +37,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wecode 후기&lpar;위코드 후기&rpar;](https://velog.io/@wjswldhks123/Wecode-%ED%9B%84%EA%B8%B0%EC%9C%84%EC%BD%94%EB%93%9C-%ED%9B%84%EA%B8%B0)
 - [Wecode 2nd Project](https://velog.io/@wjswldhks123/Wecode-2nd-Project)
 - [Wecode 1st Project](https://velog.io/@wjswldhks123/Wecode-1st-Project)
 - [Wecode 1차 프로젝트](https://velog.io/@wjswldhks123/LikeProject)
