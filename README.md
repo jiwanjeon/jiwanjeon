@@ -37,9 +37,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Commento | [WIL] Git &amp; Figma](https://velog.io/@wjswldhks123/Commento-WIL-Git-Figma)
 - [[TIL] JWT&lpar;JSON Web Token &rpar;](https://velog.io/@wjswldhks123/TIL-JWTJSON-Web-Token)
 - [[TIL] Local Storage vs Session Storage vs Cookie](https://velog.io/@wjswldhks123/TIL-Local-Storage-vs-Session-Storage-vs-Cookie)
 - [[TIL]크로스 브라우징&lpar;Cross Brrowsing&rpar;](https://velog.io/@wjswldhks123/TIL%ED%81%AC%EB%A1%9C%EC%8A%A4-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A7%95Cross-Brrowsing-3xf6shv0)
 - [[TIL] SPA](https://velog.io/@wjswldhks123/SPA)
-- [[TIL] CSR과SSR 차이](https://velog.io/@wjswldhks123/CSR%EA%B3%BCSSR-%EC%B0%A8%EC%9D%B4)
 <!-- BLOG-POST-LIST:END -->
