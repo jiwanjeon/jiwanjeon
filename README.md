@@ -37,9 +37,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use PyMySQL with Django&lpar;M1 Mac&rpar;](https://velog.io/@wjswldhks123/How-to-use-PyMySQL-with-DjangoM1-Mac)
 - [[TIL] What is GraphQL?](https://velog.io/@wjswldhks123/TIL-What-is-GraphQL)
 - [Commento | [WIL] Typescrpit &amp; Clean Code](https://velog.io/@wjswldhks123/Commento-WIL-Typescrpit-Clean-Code)
 - [트위니&lpar;Twinny&rpar; 면접 후기](https://velog.io/@wjswldhks123/%ED%8A%B8%EC%9C%84%EB%8B%88Twinny-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0)
 - [[TIL] What is Hash Map](https://velog.io/@wjswldhks123/What-is-Hash-Map)
-- [Commento | [WIL] Git &amp; Figma](https://velog.io/@wjswldhks123/Commento-WIL-Git-Figma)
 <!-- BLOG-POST-LIST:END -->
