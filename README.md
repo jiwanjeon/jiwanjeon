@@ -37,9 +37,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Docker?](https://velog.io/@wjswldhks123/What-is-Docker)
 - [나를 위한 Back-end CLI](https://velog.io/@wjswldhks123/%EB%82%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Back-end-CLI)
 - [- http: error: argument REQUEST_ITEM: &#39;&#39; is not a valid value Error](https://velog.io/@wjswldhks123/-http-error-argument-REQUESTITEM-is-not-a-valid-value-Error)
 - [ModuleNotFoundError: No module named &#39;&#39; Error](https://velog.io/@wjswldhks123/ModuleNotFoundError-No-module-named-Error)
 - [Django Table already exist Error](https://velog.io/@wjswldhks123/Django-Table-already-exist-Error)
-- [Django Project Initial Setting](https://velog.io/@wjswldhks123/Django-Project-Initial-Setting)
 <!-- BLOG-POST-LIST:END -->
