@@ -37,9 +37,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Difference between = and := in Golang](https://velog.io/@wjswldhks123/Difference-between-and-in-Golang)
 - [Organize All Print type in Golang](https://velog.io/@wjswldhks123/Organize-All-Print-type-in-Golang)
 - [How to run/use Golang](https://velog.io/@wjswldhks123/How-to-runuse-Golang)
 - [What is Docker?](https://velog.io/@wjswldhks123/What-is-Docker)
 - [나를 위한 Back-end CLI](https://velog.io/@wjswldhks123/%EB%82%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Back-end-CLI)
-- [- http: error: argument REQUEST_ITEM: &#39;&#39; is not a valid value Error](https://velog.io/@wjswldhks123/-http-error-argument-REQUESTITEM-is-not-a-valid-value-Error)
 <!-- BLOG-POST-LIST:END -->
