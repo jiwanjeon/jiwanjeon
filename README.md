@@ -37,9 +37,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to import module package in Golang](https://velog.io/@wjswldhks123/How-to-import-module-package-in-Golang)
 - [How to change PostgreSQL dbport?](https://velog.io/@wjswldhks123/How-to-change-PostgreSQL-dbport)
 - [Difference between = and := in Golang](https://velog.io/@wjswldhks123/Difference-between-and-in-Golang)
 - [Organize All Print type in Golang](https://velog.io/@wjswldhks123/Organize-All-Print-type-in-Golang)
 - [How to run/use Golang](https://velog.io/@wjswldhks123/How-to-runuse-Golang)
-- [What is Docker?](https://velog.io/@wjswldhks123/What-is-Docker)
 <!-- BLOG-POST-LIST:END -->
